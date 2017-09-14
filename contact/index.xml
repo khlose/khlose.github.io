@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contact-rsses on Schwin P</title>
+    <link>https://khlose.github.io/contact/index.xml</link>
+    <description>Recent content in Contact-rsses on Schwin P</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Dec 2016 02:07:27 -0500</lastBuildDate>
+    <atom:link href="https://khlose.github.io/contact/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Get in touch</title>
+      <link>https://khlose.github.io/contact/</link>
+      <pubDate>Mon, 19 Dec 2016 02:07:27 -0500</pubDate>
+      
+      <guid>https://khlose.github.io/contact/</guid>
+      <description>&lt;p&gt;If somehow you are hooked and want to talk to me more about anything, feel free to reach out.&lt;br /&gt; I will try my best to respond and reach back as soon as possible!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
