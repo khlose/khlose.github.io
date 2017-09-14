@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Schwin P</title>
+    <link>https://khlose.github.io/index.xml</link>
+    <description>Recent content on Schwin P</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Dec 2016 02:07:27 -0500</lastBuildDate>
+    <atom:link href="https://khlose.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Get in touch</title>
+      <link>https://khlose.github.io/contact/</link>
+      <pubDate>Mon, 19 Dec 2016 02:07:27 -0500</pubDate>
+      
+      <guid>https://khlose.github.io/contact/</guid>
+      <description>&lt;p&gt;If somehow you are hooked and want to talk to me more about anything, feel free to reach out.&lt;br /&gt; I will try my best to respond and reach back as soon as possible!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://khlose.github.io/about/</link>
+      <pubDate>Mon, 19 Dec 2016 01:16:12 -0500</pubDate>
+      
+      <guid>https://khlose.github.io/about/</guid>
+      <description>
+
+&lt;p&gt;Resume:&lt;a href=&#34;https://khlose.github.io/resume/SchwinP.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I was originally born in Thailand and had been living there for a half of my life. During my senior year, I had an amazing opportunity of being an THA-USA exchange student for a year. Needless to say it was so awesome that I had to comeback again for college.&lt;/p&gt;
+
+&lt;!--When I was a freshman in college, I had an amzing  group of friends who did a lot of great stuff, some of them develop web apps, some write an Android app, some works on microcontroller. We spent days and nights working on some of the stupidly fun stuffs for years that I was greatly influenced by their skills. You could say that I absorbed and learned some of their skills. This made me who I am, as a developer today.--&gt;
+
+&lt;p&gt;Most of my projects were solely inspired by my passion and some problems that I have to deal with every day. Some of them were inspired by what I felt like doing at a time. Some of them were developed because I got a new toys for christmas to play with.&lt;/p&gt;
+
+&lt;p&gt;&lt;/br&gt;
+&lt;img src=&#34;https://khlose.github.io/img/profile.jpg&#34; alt=&#34;This is me&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;experience&#34;&gt;Experience&lt;/h4&gt;
+
+&lt;h5 id=&#34;summer-2017&#34;&gt;Summer 2017&lt;/h5&gt;
+
+&lt;h6 id=&#34;lutron-electronic-embedded-software-developer-intern&#34;&gt;Lutron Electronic - Embedded Software Developer intern&lt;/h6&gt;
+
+&lt;p&gt;So excited for this!!&lt;/p&gt;
+
+&lt;h5 id=&#34;summer-2015&#34;&gt;Summer 2015&lt;/h5&gt;
+
+&lt;h6 id=&#34;microsoft-innovation-center-anywhere-2-go-co-ltd-windows-developer-intern&#34;&gt;Microsoft  Innovation Center/Anywhere 2 go Co., Ltd - Windows Developer intern&lt;/h6&gt;
+
+&lt;p&gt;Developed a &lt;a href=&#34;https://www.microsoft.com/th-th/store/p/claim-di/9nblggh1rggg&#34;&gt;Windows application&lt;/a&gt;, a counterpart to their &lt;a href=&#34;https://itunes.apple.com/us/app/claim-di-i-lert-u/id881799156?mt=8&#34;&gt;iOS&lt;/a&gt; and &lt;a href=&#34;https://play.google.com/store/apps/details?id=anywaretogo.claimdiconsumer&amp;amp;hl=en&#34;&gt;Android&lt;/a&gt; application. For more info about the app, please pay &lt;a href=&#34;http://www.claimdi.com/en/&#34;&gt;them&lt;/a&gt; a visit.&lt;/p&gt;
+
+&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;High School: Princess Chulabhorn&amp;rsquo;s College - Lop Buri, Thailand&lt;/li&gt;
+&lt;li&gt;Undergraduate: Computer Engineering, Purdue University - West Lafayette, IN. USA&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Myo Aide</title>
+      <link>https://khlose.github.io/portfolio/work1/</link>
+      <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
+      
+      <guid>https://khlose.github.io/portfolio/work1/</guid>
+      <description>&lt;p&gt;Enable your android phone the true handsfree experience wiht Myo Armband.
+
+&lt;br&gt;
+Project content coming soon!&lt;/p&gt;
+
+&lt;!--
+Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+
+A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+
+1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+2. Aliquam tincidunt mauris eu risus.
+
+&gt; The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn&#39;t listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+
+## Header Level 2
+
+Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+
+The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn&#39;t listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+
+* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+* Aliquam tincidunt mauris eu risus.
+
+When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+--&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
